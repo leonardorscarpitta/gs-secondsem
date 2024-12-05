@@ -1,0 +1,6 @@
+*__pycache__
+*.env
+*.idea
+*.pyc
+test_env.py
+data/data.json
