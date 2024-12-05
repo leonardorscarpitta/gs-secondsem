@@ -74,9 +74,3 @@ Essa abordagem não apenas explora soluções tecnológicas inovadoras, mas tamb
 ## Desenvolvedores do projeto:
 
 | Leonardo Rocha Scarpitta       | RM 555460              | <a target="_blank" href="https://www.linkedin.com/in/leonardorscarpitta/"><img src="https://avatars.githubusercontent.com/u/161969345?s=400&u=f9bdb6fa659af646efcd0cb9fb51a321f19faabc&v=4" width="80"></a> |
-
-## Licença
-
-Este projeto é open source sob a **MIT License with Commons Clause**. Isso significa que você pode visualizar, modificar e compartilhar o código livremente, desde que não o utilize para fins comerciais.
-
-Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
